@@ -1,4 +1,4 @@
-# GitHub Productivity Tipps
+# GitHub Productivity Tips
 
 ## GitHub CLI
 
