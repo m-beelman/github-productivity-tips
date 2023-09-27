@@ -1,5 +1,9 @@
 # GitHub Productivity Tipps
 
+## GitHub CLI
+
+Alles um das "offizielle" GitHub CLI Tool ist [hier](https://cli.github.com/) zu finden.
+
 ## GitHub Web-UI
 
 - Tastenkombinationen: [GitHub Keyboard Shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
